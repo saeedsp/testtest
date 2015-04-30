@@ -1,0 +1,57 @@
+git init
+
+vim .gitignore
+
+git status
+
+git add .
+git add [filename]
+
+git commit
+git commit -m''
+
+git log
+git log --oneline
+
+
+git checkout -b [filename]
+git checkout
+
+git merge [branchname]
+
+git branch -d [branch name]
+git branch -D [branch name]
+
+git rebase master [branch name]
+
+git rebase --onto master [branch name]
+
+git rebase --continue    --> 
+
+git  checkout [id commit]   --> goto commit
+
+git reset [id commit]  -->
+git reset --hard [id commit]
+
+git commit --amend -m ''     --> rename last commit
+
+git rm []
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
