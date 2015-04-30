@@ -37,6 +37,9 @@ git commit --amend -m ''     --> rename last commit
 
 git rm []
 
+git push origin master:master     --> 1.local  2.github
+
+git remote add origin https://github.com/saeedsp/testtest.git
 
 
 
